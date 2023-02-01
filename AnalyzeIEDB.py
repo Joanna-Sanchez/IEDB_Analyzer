@@ -3,8 +3,9 @@ import sys, re
 import matplotlib.pyplot as plt
 import numpy as np
 
-inputRF = sys.argv[1]
-inputEAC = sys.argv[2]
+path = sys.argv[1]
+inputRF = path+"/ResponseFrequency.json"
+inputEAC = path+"/EpitopeAssayCount.json"
 
 def drawCorr(posmin, posmax, listRF, listEAC):
     # plot 2D
@@ -103,7 +104,7 @@ def main():
     plt.title('Response Frequency')
     plt.xlabel('Position in Reference Antigen')
     plt.ylabel('Response Frequency')
-    pngname = 'ResponseFrequency_vs_Position.png'
+    pngname = 'plots/ResponseFrequency_vs_Position.png'
     plt.savefig(pngname.replace('png', 'pdf'), format='pdf')
     plt.savefig(pngname, format='png')
 
