@@ -6,16 +6,17 @@ import numpy as np
 path = sys.argv[1]
 inputRF = path+"/ResponseFrequency.json"
 inputEAC = path+"/EpitopeAssayCount.json"
+postfix = path.split("/")[1]
 
 def drawCorr(posmin, posmax, listRF, listEAC):
     # plot 2D
     plt.scatter(listEAC[posmin-1:posmax-1], listRF[posmin-1:posmax-1])
-    plt.title('Correlation[Position range: %.f-%.f]'%(posmin, posmax))
+    plt.title('%s\nCorrelation[Position range: %.f-%.f]'%(postfix, posmin, posmax))
     plt.ylim(0, 0.5)
     plt.xlim(0, 400)
     plt.ylabel('Response Frequency')
     plt.xlabel('Epitope Assay Counts')
-    pngname = 'plots/Correlation_%s_%s.png'%(posmin, posmax)
+    pngname = 'plots/Correlation_%s_%s_%s.png'%(posmin, posmax, postfix)
     plt.savefig(pngname.replace('png', 'pdf'), format='pdf')
     plt.savefig(pngname, format='png')
     print ('imgcat %s'%(pngname))
