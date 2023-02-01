@@ -48,6 +48,7 @@ def main():
             pos = line # position
             pos = pos.split()
             pos = pos[-1]            
+            if ',' in pos: pos = pos.split(',')[0]
             listRFPOS.append(int(pos))
             #print(pos)
                     
@@ -68,14 +69,15 @@ def main():
         if "positive" in line:
             eac = line # response frequency
             eac = eac.split()
-            eac = eac[-1]
-            eac = eac[:-1]
+            eac = eac[-1]            
+            if ',' in eac: eac = eac[:-1]
             listEAC.append(float(eac))
             #print(eac)
         if "position" in line:
             pos = line # position
             pos = pos.split()
-            pos = pos[-1]            
+            pos = pos[-1]
+            if ',' in pos: pos = pos.split(',')[0]
             listEACPOS.append(int(pos))
             #print(pos)
                     
