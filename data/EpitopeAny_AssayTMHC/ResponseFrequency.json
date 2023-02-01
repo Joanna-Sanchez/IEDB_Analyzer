@@ -1,0 +1,7640 @@
+[
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.21",
+		"position": 1,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.23",
+		"position": 2,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.21",
+		"position": 3,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.2",
+		"position": 4,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.17",
+		"position": 5,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 6,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.15",
+		"position": 7,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 8,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 9,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.17",
+		"position": 10,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 11,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 12,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 13,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 14,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 15,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 16,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 17,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 18,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 19,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 20,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 21,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 22,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 23,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 24,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 25,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 26,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 27,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 28,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 29,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 30,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 31,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 32,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 33,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 34,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 35,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 36,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 37,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 38,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 39,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 40,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 41,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 42,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 43,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 44,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 45,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 46,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 47,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 48,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 49,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 50,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 51,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 52,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 53,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 54,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 55,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 56,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 57,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 58,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 59,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 60,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 61,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 62,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 63,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 64,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 65,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 66,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 67,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 68,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 69,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 70,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 71,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 72,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 73,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 74,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 75,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 76,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 77,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 78,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 79,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 80,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 81,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 82,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 83,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 84,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 85,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 86,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 87,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 88,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 89,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 90,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 91,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 92,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 93,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 94,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 95,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 96,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 97,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 98,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 99,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 100,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 101,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 102,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 103,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 104,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 105,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 106,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 107,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 108,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 109,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 110,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 111,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 112,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 113,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 114,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 115,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 116,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 117,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 118,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 119,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 120,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 121,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 122,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 123,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 124,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 125,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 126,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 127,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 128,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 129,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 130,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 131,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 132,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 133,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 134,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 135,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 136,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 137,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 138,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 139,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 140,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 141,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 142,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 143,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 144,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 145,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 146,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 147,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 148,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 149,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 150,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 151,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 152,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 153,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 154,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 155,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 156,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 157,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 158,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 159,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 160,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 161,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 162,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 163,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 164,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 165,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 166,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 167,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 168,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 169,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 170,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 171,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 172,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 173,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 174,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 175,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 176,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 177,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 178,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 179,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 180,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 181,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 182,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 183,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 184,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 185,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 186,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 187,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 188,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 189,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 190,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 191,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 192,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 193,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 194,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 195,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 196,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 197,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 198,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 199,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 200,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 201,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 202,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 203,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 204,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 205,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 206,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 207,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 208,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 209,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 210,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 211,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 212,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 213,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 214,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 215,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 216,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 217,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 218,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 219,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 220,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 221,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 222,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 223,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 224,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 225,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 226,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 227,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 228,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 229,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 230,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 231,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 232,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 233,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 234,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 235,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 236,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 237,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 238,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 239,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 240,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 241,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 242,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 243,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 244,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 245,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 246,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 247,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 248,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 249,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 250,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 251,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 252,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 253,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 254,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 255,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 256,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 257,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 258,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 259,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 260,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 261,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 262,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 263,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 264,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 265,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 266,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 267,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 268,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 269,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.24",
+		"position": 270,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 271,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 272,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.23",
+		"position": 273,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 274,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 275,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 276,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.24",
+		"position": 277,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 278,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 279,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 280,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 281,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 282,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.08",
+		"position": 283,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 284,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 285,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 286,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 287,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 288,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 289,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 290,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 291,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 292,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 293,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 294,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 295,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 296,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 297,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 298,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 299,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 300,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 301,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 302,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 303,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 304,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 305,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 306,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 307,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 308,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 309,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 310,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 311,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 312,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 313,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 314,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 315,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 316,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 317,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 318,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 319,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 320,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 321,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 322,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 323,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 324,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 325,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 326,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 327,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 328,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 329,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 330,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 331,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 332,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 333,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 334,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 335,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 336,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 337,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 338,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 339,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 340,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 341,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 342,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 343,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 344,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 345,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 346,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 347,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 348,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 349,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 350,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 351,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 352,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 353,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 354,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 355,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 356,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 357,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 358,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 359,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 360,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 361,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 362,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 363,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 364,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 365,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 366,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 367,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 368,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 369,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 370,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 371,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 372,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 373,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 374,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 375,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 376,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 377,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.22",
+		"position": 378,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 379,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 380,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 381,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.2",
+		"position": 382,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 383,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 384,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.2",
+		"position": 385,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 386,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 387,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 388,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 389,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 390,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 391,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 392,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 393,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 394,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 395,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 396,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 397,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 398,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 399,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 400,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 401,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 402,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 403,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 404,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 405,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 406,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 407,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 408,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 409,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 410,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 411,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 412,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 413,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 414,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 415,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 416,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.27",
+		"position": 417,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 418,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 419,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 420,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 421,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 422,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 423,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 424,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 425,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 426,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 427,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 428,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 429,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 430,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 431,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 432,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 433,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 434,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 435,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 436,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 437,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 438,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 439,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 440,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 441,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 442,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 443,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.21",
+		"position": 444,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 445,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 446,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 447,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 448,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 449,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.22",
+		"position": 450,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 451,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.23",
+		"position": 452,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.23",
+		"position": 453,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 454,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 455,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 456,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 457,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 458,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 459,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 460,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 461,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 462,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 463,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 464,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 465,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 466,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 467,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 468,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 469,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 470,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 471,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 472,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 473,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 474,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 475,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 476,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.21",
+		"position": 477,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 478,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 479,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 480,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 481,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.26",
+		"position": 482,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.28",
+		"position": 483,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.36",
+		"position": 484,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.28",
+		"upperbound": "0.29",
+		"position": 485,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.33",
+		"position": 486,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 487,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 488,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.29",
+		"upperbound": "0.3",
+		"position": 489,
+		"lowerbound": "0.27"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 490,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 491,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 492,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.29",
+		"upperbound": "0.31",
+		"position": 493,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.26",
+		"position": 494,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 495,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 496,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 497,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.2",
+		"position": 498,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 499,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 500,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.28",
+		"position": 501,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 502,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 503,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 504,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 505,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 506,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 507,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 508,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 509,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 510,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 511,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 512,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 513,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 514,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 515,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 516,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 517,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 518,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 519,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 520,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 521,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 522,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 523,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 524,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 525,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 526,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 527,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 528,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 529,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 530,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 531,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 532,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 533,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 534,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 535,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 536,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 537,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 538,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 539,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 540,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 541,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 542,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 543,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 544,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 545,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 546,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 547,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 548,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 549,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 550,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 551,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 552,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 553,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 554,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.27",
+		"position": 555,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.29",
+		"upperbound": "0.31",
+		"position": 556,
+		"lowerbound": "0.27"
+	},
+	{
+		"response frequency": "0.3",
+		"upperbound": "0.32",
+		"position": 557,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 558,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 559,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.34",
+		"upperbound": "0.36",
+		"position": 560,
+		"lowerbound": "0.32"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 561,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 562,
+		"lowerbound": "0.31"
+	},
+	{
+		"response frequency": "0.33",
+		"upperbound": "0.35",
+		"position": 563,
+		"lowerbound": "0.31"
+	},
+	{
+		"response frequency": "0.34",
+		"upperbound": "0.36",
+		"position": 564,
+		"lowerbound": "0.32"
+	},
+	{
+		"response frequency": "0.33",
+		"upperbound": "0.35",
+		"position": 565,
+		"lowerbound": "0.31"
+	},
+	{
+		"response frequency": "0.33",
+		"upperbound": "0.35",
+		"position": 566,
+		"lowerbound": "0.31"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 567,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 568,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 569,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.3",
+		"upperbound": "0.32",
+		"position": 570,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 571,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 572,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 573,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 574,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 575,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.28",
+		"upperbound": "0.3",
+		"position": 576,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 577,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 578,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 579,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 580,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.27",
+		"position": 581,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.27",
+		"position": 582,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 583,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.26",
+		"position": 584,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 585,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 586,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 587,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 588,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 589,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 590,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 591,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 592,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 593,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 594,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 595,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 596,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 597,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 598,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 599,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 600,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 601,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 602,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 603,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 604,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 605,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 606,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 607,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 608,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 609,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 610,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 611,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 612,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 613,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 614,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 615,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 616,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 617,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 618,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 619,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 620,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 621,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 622,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 623,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 624,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 625,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 626,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 627,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 628,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 629,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 630,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 631,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 632,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 633,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 634,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 635,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 636,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 637,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 638,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 639,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 640,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 641,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 642,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 643,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 644,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 645,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 646,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 647,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 648,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 649,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 650,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 651,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 652,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 653,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 654,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 655,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 656,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 657,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 658,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 659,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 660,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 661,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 662,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 663,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 664,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 665,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 666,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 667,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 668,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 669,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 670,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 671,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 672,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 673,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 674,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 675,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 676,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 677,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 678,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 679,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 680,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 681,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 682,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 683,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 684,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 685,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 686,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 687,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 688,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 689,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 690,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 691,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 692,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 693,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 694,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 695,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 696,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 697,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 698,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 699,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 700,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 701,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 702,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 703,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 704,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 705,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 706,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 707,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 708,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 709,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 710,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 711,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 712,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 713,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 714,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 715,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 716,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 717,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 718,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 719,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 720,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 721,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 722,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 723,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 724,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 725,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 726,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 727,
+		"lowerbound": "0.02"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 728,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 729,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 730,
+		"lowerbound": "0.02"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 731,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 732,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.03",
+		"upperbound": "0.04",
+		"position": 733,
+		"lowerbound": "0.02"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 734,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 735,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 736,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 737,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 738,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.07",
+		"position": 739,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.07",
+		"position": 740,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 741,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.07",
+		"position": 742,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 743,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 744,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 745,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 746,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 747,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 748,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 749,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 750,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 751,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 752,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 753,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 754,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 755,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 756,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 757,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 758,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 759,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 760,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 761,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 762,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 763,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 764,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 765,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 766,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 767,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 768,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 769,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 770,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 771,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 772,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 773,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 774,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.2",
+		"position": 775,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 776,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 777,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 778,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 779,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 780,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 781,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 782,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 783,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 784,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 785,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 786,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 787,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 788,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 789,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 790,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 791,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 792,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 793,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 794,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.2",
+		"upperbound": "0.22",
+		"position": 795,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 796,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 797,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 798,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 799,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 800,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 801,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.28",
+		"position": 802,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 803,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.29",
+		"position": 804,
+		"lowerbound": "0.26"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 805,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.29",
+		"upperbound": "0.31",
+		"position": 806,
+		"lowerbound": "0.27"
+	},
+	{
+		"response frequency": "0.3",
+		"upperbound": "0.32",
+		"position": 807,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 808,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.33",
+		"position": 809,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 810,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.36",
+		"position": 811,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.37",
+		"position": 812,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.36",
+		"position": 813,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.36",
+		"upperbound": "0.38",
+		"position": 814,
+		"lowerbound": "0.34"
+	},
+	{
+		"response frequency": "0.37",
+		"upperbound": "0.39",
+		"position": 815,
+		"lowerbound": "0.36"
+	},
+	{
+		"response frequency": "0.4",
+		"upperbound": "0.42",
+		"position": 816,
+		"lowerbound": "0.38"
+	},
+	{
+		"response frequency": "0.4",
+		"upperbound": "0.42",
+		"position": 817,
+		"lowerbound": "0.38"
+	},
+	{
+		"response frequency": "0.4",
+		"upperbound": "0.41",
+		"position": 818,
+		"lowerbound": "0.38"
+	},
+	{
+		"response frequency": "0.39",
+		"upperbound": "0.41",
+		"position": 819,
+		"lowerbound": "0.37"
+	},
+	{
+		"response frequency": "0.37",
+		"upperbound": "0.39",
+		"position": 820,
+		"lowerbound": "0.35"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.37",
+		"position": 821,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.36",
+		"position": 822,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.34",
+		"upperbound": "0.36",
+		"position": 823,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.35",
+		"upperbound": "0.37",
+		"position": 824,
+		"lowerbound": "0.33"
+	},
+	{
+		"response frequency": "0.33",
+		"upperbound": "0.35",
+		"position": 825,
+		"lowerbound": "0.32"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 826,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 827,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 828,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 829,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 830,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 831,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 832,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 833,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 834,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 835,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 836,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 837,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 838,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 839,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 840,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 841,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 842,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 843,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 844,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 845,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 846,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.07",
+		"position": 847,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 848,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.07",
+		"position": 849,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 850,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 851,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 852,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 853,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 854,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 855,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 856,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 857,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 858,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 859,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 860,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 861,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 862,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 863,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 864,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 865,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 866,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 867,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 868,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 869,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 870,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 871,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 872,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 873,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 874,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 875,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 876,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 877,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 878,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 879,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 880,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 881,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 882,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 883,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 884,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 885,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 886,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 887,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 888,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 889,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 890,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 891,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 892,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 893,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 894,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 895,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 896,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 897,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 898,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 899,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 900,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 901,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 902,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 903,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 904,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 905,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 906,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 907,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 908,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 909,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 910,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 911,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 912,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 913,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 914,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 915,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 916,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 917,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 918,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 919,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 920,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 921,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 922,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 923,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 924,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 925,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 926,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 927,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 928,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 929,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 930,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 931,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 932,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 933,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 934,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 935,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 936,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 937,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 938,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 939,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 940,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 941,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 942,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 943,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 944,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 945,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 946,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 947,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 948,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 949,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 950,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 951,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 952,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 953,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 954,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 955,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 956,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 957,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 958,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 959,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.19",
+		"position": 960,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.18",
+		"position": 961,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 962,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 963,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 964,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 965,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 966,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 967,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 968,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 969,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 970,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 971,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 972,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 973,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 974,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 975,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 976,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 977,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 978,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 979,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 980,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 981,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 982,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 983,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 984,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 985,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 986,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 987,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 988,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 989,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 990,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 991,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 992,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 993,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 994,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 995,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 996,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 997,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 998,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 999,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1000,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1001,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1002,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1003,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1004,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1005,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1006,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1007,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1008,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1009,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1010,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1011,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1012,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1013,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1014,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1015,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1016,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1017,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1018,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1019,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1020,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1021,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1022,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 1023,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1024,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1025,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1026,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1027,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1028,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1029,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1030,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1031,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1032,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1033,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1034,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1035,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1036,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1037,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1038,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1039,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1040,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1041,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1042,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1043,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1044,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1045,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1046,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1047,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.08",
+		"position": 1048,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1049,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1050,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1051,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1052,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1053,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1054,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1055,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1056,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1057,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1058,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1059,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1060,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1061,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1062,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1063,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1064,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1065,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1066,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1067,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1068,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1069,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1070,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1071,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.08",
+		"position": 1072,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1073,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1074,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.08",
+		"position": 1075,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1076,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1077,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1078,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1079,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1080,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1081,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1082,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1083,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 1084,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1085,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1086,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1087,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1088,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1089,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1090,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1091,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1092,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1093,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1094,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1095,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.08",
+		"position": 1096,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1097,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1098,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1099,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1100,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1101,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1102,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1103,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1104,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1105,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1106,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1107,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1108,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1109,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1110,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1111,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1112,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1113,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1114,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1115,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1116,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 1117,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1118,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 1119,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1120,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1121,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1122,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1123,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1124,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1125,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1126,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 1127,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.06",
+		"position": 1128,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 1129,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.06",
+		"position": 1130,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 1131,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.05",
+		"upperbound": "0.06",
+		"position": 1132,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.06",
+		"upperbound": "0.07",
+		"position": 1133,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1134,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1135,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1136,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1137,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1138,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1139,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1140,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1141,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.17",
+		"position": 1142,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.2",
+		"position": 1143,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 1144,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 1145,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.27",
+		"position": 1146,
+		"lowerbound": "0.23"
+	},
+	{
+		"response frequency": "0.27",
+		"upperbound": "0.28",
+		"position": 1147,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.3",
+		"upperbound": "0.32",
+		"position": 1148,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.3",
+		"upperbound": "0.32",
+		"position": 1149,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 1150,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.33",
+		"position": 1151,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 1152,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 1153,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 1154,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 1155,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.34",
+		"upperbound": "0.36",
+		"position": 1156,
+		"lowerbound": "0.32"
+	},
+	{
+		"response frequency": "0.33",
+		"upperbound": "0.34",
+		"position": 1157,
+		"lowerbound": "0.31"
+	},
+	{
+		"response frequency": "0.32",
+		"upperbound": "0.34",
+		"position": 1158,
+		"lowerbound": "0.3"
+	},
+	{
+		"response frequency": "0.31",
+		"upperbound": "0.32",
+		"position": 1159,
+		"lowerbound": "0.29"
+	},
+	{
+		"response frequency": "0.29",
+		"upperbound": "0.31",
+		"position": 1160,
+		"lowerbound": "0.28"
+	},
+	{
+		"response frequency": "0.26",
+		"upperbound": "0.28",
+		"position": 1161,
+		"lowerbound": "0.25"
+	},
+	{
+		"response frequency": "0.25",
+		"upperbound": "0.27",
+		"position": 1162,
+		"lowerbound": "0.24"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 1163,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1164,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.23",
+		"position": 1165,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 1166,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 1167,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 1168,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.18",
+		"position": 1169,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 1170,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1171,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 1172,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1173,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1174,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1175,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.16",
+		"upperbound": "0.17",
+		"position": 1176,
+		"lowerbound": "0.14"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1177,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1178,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1179,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1180,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1181,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1182,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1183,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1184,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1185,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1186,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1187,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1188,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1189,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1190,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1191,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1192,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1193,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1194,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1195,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1196,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1197,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1198,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1199,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1200,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1201,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1202,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1203,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1204,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.1",
+		"position": 1205,
+		"lowerbound": "0.07"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.11",
+		"position": 1206,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1207,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1208,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1209,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1210,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1211,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1212,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.13",
+		"position": 1213,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.11",
+		"position": 1214,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1215,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1216,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1217,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1218,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.12",
+		"upperbound": "0.14",
+		"position": 1219,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1220,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1221,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1222,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1223,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1224,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.14",
+		"position": 1225,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1226,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.15",
+		"position": 1227,
+		"lowerbound": "0.12"
+	},
+	{
+		"response frequency": "0.14",
+		"upperbound": "0.16",
+		"position": 1228,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1229,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1230,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1231,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1232,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.12",
+		"position": 1233,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.02",
+		"upperbound": "0.03",
+		"position": 1234,
+		"lowerbound": "0.01"
+	},
+	{
+		"response frequency": "0.02",
+		"upperbound": "0.03",
+		"position": 1235,
+		"lowerbound": "0.02"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.06",
+		"position": 1236,
+		"lowerbound": "0.04"
+	},
+	{
+		"response frequency": "0.04",
+		"upperbound": "0.05",
+		"position": 1237,
+		"lowerbound": "0.03"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1238,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1239,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1240,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1241,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1242,
+		"lowerbound": "0.05"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1243,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.08",
+		"position": 1244,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.07",
+		"upperbound": "0.09",
+		"position": 1245,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.08",
+		"upperbound": "0.09",
+		"position": 1246,
+		"lowerbound": "0.06"
+	},
+	{
+		"response frequency": "0.09",
+		"upperbound": "0.1",
+		"position": 1247,
+		"lowerbound": "0.08"
+	},
+	{
+		"response frequency": "0.1",
+		"upperbound": "0.12",
+		"position": 1248,
+		"lowerbound": "0.09"
+	},
+	{
+		"response frequency": "0.11",
+		"upperbound": "0.13",
+		"position": 1249,
+		"lowerbound": "0.1"
+	},
+	{
+		"response frequency": "0.13",
+		"upperbound": "0.15",
+		"position": 1250,
+		"lowerbound": "0.11"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.16",
+		"position": 1251,
+		"lowerbound": "0.13"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.19",
+		"position": 1252,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.18",
+		"upperbound": "0.2",
+		"position": 1253,
+		"lowerbound": "0.16"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.21",
+		"position": 1254,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.22",
+		"position": 1255,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 1256,
+		"lowerbound": "0.19"
+	},
+	{
+		"response frequency": "0.22",
+		"upperbound": "0.24",
+		"position": 1257,
+		"lowerbound": "0.2"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1258,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1259,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 1260,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1261,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1262,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1263,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1264,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1265,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 1266,
+		"lowerbound": "0.22"
+	},
+	{
+		"response frequency": "0.24",
+		"upperbound": "0.26",
+		"position": 1267,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.23",
+		"upperbound": "0.25",
+		"position": 1268,
+		"lowerbound": "0.21"
+	},
+	{
+		"response frequency": "0.21",
+		"upperbound": "0.23",
+		"position": 1269,
+		"lowerbound": "0.18"
+	},
+	{
+		"response frequency": "0.19",
+		"upperbound": "0.22",
+		"position": 1270,
+		"lowerbound": "0.17"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.2",
+		"position": 1271,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.17",
+		"upperbound": "0.2",
+		"position": 1272,
+		"lowerbound": "0.15"
+	},
+	{
+		"response frequency": "0.15",
+		"upperbound": "0.18",
+		"position": 1273,
+		"lowerbound": "0.13"
+	}
+]
