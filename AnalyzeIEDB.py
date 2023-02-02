@@ -60,6 +60,7 @@ def main():
 
     ####### from EpitopeAssayCount.json #######    
     listEAC = []
+    listEACN = []
     listEACPOS = []
 
     
@@ -72,6 +73,13 @@ def main():
             eac = eac[-1]            
             if ',' in eac: eac = eac[:-1]
             listEAC.append(float(eac))
+            #print(eac)
+        if "negative" in line:
+            eacn = line # response frequency
+            eacn = eacn.split()
+            eacn = eacn[-1]            
+            if ',' in eacn: eacn = eacn[:-1]
+            listEACN.append(float(eacn))
             #print(eac)
         if "position" in line:
             pos = line # position
@@ -98,7 +106,11 @@ def main():
         print ("RFPOS and EACPOS are differnet. x-axis should be identical!")
         exit()
 
-        
+
+    # compute mean and RMS
+    mean = np.mean(np.array(listEACN))
+    rms = np.sqrt(np.mean(np.square(listEACN)))
+    print ("Mean of negative counts is %.2f, RMS=%.2f"%(mean, rms))
 
     # plot 1D
     plt.figure().set_figwidth(20)
