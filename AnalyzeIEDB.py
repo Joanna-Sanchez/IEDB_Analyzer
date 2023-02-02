@@ -41,7 +41,8 @@ def main():
             rf = line # response frequency
             rf = rf.split()
             rf = rf[-1]
-            rf = rf[1:-2]
+            if ',' in rf: rf = rf[1:-2]
+            else: rf = rf[1:-1]
             listRF.append(float(rf))
             #print(rf)
         if "position" in line:
@@ -113,10 +114,11 @@ def main():
     print ("Mean of negative counts is %.2f, RMS=%.2f"%(mean, rms))
 
     # plot 1D
-    plt.figure().set_figwidth(20)
+    plt.figure().set_figwidth(40)
     #plt.plot([1,2,3,4,5,6,7,8,9],[10,11,13,50,0,10,3,4,9]) #
     plt.plot(listRF) #np.array(listRFPOS), np.array(listRF))
     plt.title('Response Frequency')
+    plt.ylim(0, 1.0)
     plt.xlabel('Position in Reference Antigen')
     plt.ylabel('Response Frequency')
     pngname = 'plots/ResponseFrequency_vs_Position.png'
