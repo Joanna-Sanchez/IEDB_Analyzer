@@ -145,9 +145,13 @@ def main():
     drawCorr(listRFPOS[0], 300, listRF, listEAC)
     drawCorr(300, 600, listRF, listEAC)
     drawCorr(300, 550, listRF, listEAC)
-    drawCorr(800, 1100, listRF, listEAC)
+    drawCorr(300, 530, listRF, listEAC)
+    drawCorr(800, 1000, listRF, listEAC)
     drawCorr(601, listRFPOS[-1], listRF, listEAC)
 
+    MaxEACpos = listEAC.index(max(listEAC))+1
+    MaxEAC = listRF[listEAC.index(max(listEAC))]
+    print ("Maximum EAC is %.2f and its epitope position is %.f"%(MaxEAC, MaxEACpos))
 
 if __name__ == "__main__":
     main()
