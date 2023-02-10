@@ -23,14 +23,15 @@ def drawCorr(posmin, posmax, listRF, listEAC):
     colors = ['yellowgreen', 'orange']
     markers = ['o', '^']
     for vidx, variant in enumerate(variants):
-        print ("%s(#of position: %.f)"%(variant, len(variants[variant])))
+        #print ("%s(#of position: %.f)"%(variant, len(variants[variant])))
         filteredLists[variant] = [[], []]
         for position in variants[variant]:
             #print (position)
             idx = position - 1
-            filteredLists[variant][0].append(listEAC[idx])
-            filteredLists[variant][1].append(listRF[idx])
-        plt.scatter(filteredLists[variant][0], filteredLists[variant][1], c=colors[vidx], marker=markers[vidx], label=variant+" (%.f)"%(len(variants[variant])))
+            if position>=posmin and position<=posmax:
+                filteredLists[variant][0].append(listEAC[idx])
+                filteredLists[variant][1].append(listRF[idx])
+        plt.scatter(filteredLists[variant][0], filteredLists[variant][1], c=colors[vidx], marker=markers[vidx], label=variant+" (%.f)"%(len(filteredLists[variant][0])))
     plt.legend(loc='upper right')
     plt.title('%s\nCorrelation[Position range: %.f-%.f]'%(postfix, posmin, posmax))
     plt.ylim(0, 0.5)
