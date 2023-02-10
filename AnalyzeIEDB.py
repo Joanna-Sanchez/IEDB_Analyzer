@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import sys, re
+import sys, re, os
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -8,9 +8,30 @@ inputRF = path+"/ResponseFrequency.json"
 inputEAC = path+"/EpitopeAssayCount.json"
 postfix = path.split("/")[1]
 
+# copy proper Variant position file from the given path
+cmd = "cp %s/VariantPosition.py ."%(path)
+os.system(cmd)
+from VariantPosition import *
+
 def drawCorr(posmin, posmax, listRF, listEAC):
+
     # plot 2D
-    plt.scatter(listEAC[posmin-1:posmax-1], listRF[posmin-1:posmax-1])
+    plt.scatter(listEAC[posmin-1:posmax], listRF[posmin-1:posmax], label='All (%.f)'%(len(listRF[posmin-1:posmax])))
+
+    # filter variant
+    filteredLists = {}
+    colors = ['yellowgreen', 'orange']
+    markers = ['o', '^']
+    for vidx, variant in enumerate(variants):
+        print ("%s(#of position: %.f)"%(variant, len(variants[variant])))
+        filteredLists[variant] = [[], []]
+        for position in variants[variant]:
+            #print (position)
+            idx = position - 1
+            filteredLists[variant][0].append(listEAC[idx])
+            filteredLists[variant][1].append(listRF[idx])
+        plt.scatter(filteredLists[variant][0], filteredLists[variant][1], c=colors[vidx], marker=markers[vidx], label=variant+" (%.f)"%(len(variants[variant])))
+    plt.legend(loc='upper right')
     plt.title('%s\nCorrelation[Position range: %.f-%.f]'%(postfix, posmin, posmax))
     plt.ylim(0, 0.5)
     plt.xlim(0, 400)
